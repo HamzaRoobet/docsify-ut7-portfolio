@@ -6,19 +6,12 @@ Soy alumno/a del módulo **Sistemas Informáticos (SIS)**. Este sitio es mi port
 
 ## Qué es este portfolio
 
-Aquí recojo los apuntes y trabajos realizados a lo largo del curso, organizados por unidades de trabajo (UT). El objetivo es tener un espacio de consulta propio, con contenido redactado por mí a partir de lo explicado en clase.
+Aquí recojo los apuntes y trabajos realizados en el módulo, con contenido redactado por mí a partir de lo explicado en clase.
 
-## Estado de las unidades
+## Contenido
 
-| Unidad | Título | Estado |
-|---|---|---|
-| UT1 | Sistemas informáticos: arquitectura y componentes | 🟡 En progreso |
-| UT2 | Sistemas operativos. Introducción | ⚪ Pendiente |
-| UT3 | Gestión de archivos y almacenamiento. Terminal | ⚪ Pendiente |
-| UT4 | Gestión de usuarios y procesos. Scripting | ⚪ Pendiente |
-| UT5 | Sistemas informáticos en red | ⚪ Pendiente |
-| UT6 | Gestión de recursos en red | ⚪ Pendiente |
-| UT7 | Elaboración de documentación técnica | 🟢 En desarrollo |
+- **UT7 - Elaboración de documentación técnica**: clasificación y licencias de software, y necesidades de software en entornos productivos.
+- **Proyecto**: cómo está montado este sitio (Docsify + GitHub Pages).
 
 > [!NOTE]
-> Este portfolio se actualiza a medida que se avanza en el curso. La unidad UT7 es la primera en incluir contenido completo.
+> Este portfolio se irá ampliando con más contenido a medida que avance el curso.
