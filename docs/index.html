@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>Portfolio Técnico - UT7</title>
+  <meta name="description" content="Portfolio técnico del módulo SIS - UT7 Elaboración de documentación técnica">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+  <style>
+    :root {
+      --theme-color: #8b7cf6;
+      --sidebar-background: #16161e;
+      --content-background: #1a1b26;
+      --base-background-color: #1a1b26;
+      --base-color: #c0caf5;
+      --heading-color: #c0caf5;
+      --heading-h1-color: #8b7cf6;
+      --link-color: #8b7cf6;
+      --code-theme-background: #16161e;
+    }
+    .callout {
+      border-radius: 8px;
+      padding: 14px 18px;
+      margin: 18px 0;
+      border-left: 4px solid;
+    }
+    .callout p { margin: 0; }
+    .callout.note { background: rgba(139,124,246,0.12); border-color: #8b7cf6; }
+    .callout.tip { background: rgba(46,160,67,0.12); border-color: #2ea043; }
+    .callout.warning { background: rgba(210,153,34,0.12); border-color: #d29922; }
+    .callout.important { background: rgba(31,111,235,0.12); border-color: #1f6feb; }
+    .callout.caution { background: rgba(248,81,73,0.12); border-color: #f85149; }
+  </style>
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'Portfolio Técnico - UT7',
+      loadSidebar: true,
+      subMaxLevel: 2,
+      auto2top: true,
+      search: 'auto'
+    }
+  </script>
+  <!-- Docsify resource -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@5"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@5/dist/plugins/search.min.js"></script>
+</body>
+</html>
